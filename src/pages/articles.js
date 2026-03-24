@@ -10,7 +10,7 @@ let articleCache = {}
 async function fetchArticle(slug) {
   if (articleCache[slug]) return articleCache[slug]
   try {
-    const res = await fetch(`/articles/${slug}.md`)
+    const res = await fetch(`./articles/${slug}.md`)
     if (!res.ok) return null
     const text = await res.text()
     articleCache[slug] = text
