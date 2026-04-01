@@ -1,32 +1,31 @@
 export function render() {
   document.getElementById("app").innerHTML = `
     <div class="ebook-header">
-      <span class="ebook-eyebrow">Ebook</span>
+      <span class="ebook-eyebrow">Kit</span>
       <h1>Frontend Blueprint</h1>
-      <p class="ebook-tagline">Projetos e guias práticos.</p>
+      <p class="ebook-tagline">Projetos reais com código reutilizável.</p>
       <p class="ebook-subtitle">
-        Não é um curso sobre fundamentos. É um guia de projetos reais —
-        com estrutura de pastas, arquitetura e as decisões que o mercado
-        cobra de todo dev frontend.
+        Não é um curso. É um kit prático com projetos completos,
+        estrutura de pastas profissional e decisões que você aplica direto no seu código.
       </p>
     </div>
 
     <div class="ebook-cover-block">
       <div class="ebook-cover">
-        <img src="https://github.com/devgbr86/devgbr86/releases/download/ebook/Ebook.cover.image.2.png" alt="Frontend Blueprint cover">
+        <img src="https://github.com/devgbr86/devgbr86/releases/download/assets/cover.13.png" alt="Frontend Blueprint cover">
       </div>
       <div class="ebook-meta">
         <div class="meta-item">
           <span>Formato</span>
-          EPUB
+          PDF + Código fonte
         </div>
         <div class="meta-item">
           <span>Abordagem</span>
-          Project-based — aprenda construindo
+          Project-based — construir, usar, adaptar
         </div>
         <div class="meta-item">
-          <span>Projetos</span>
-          3 projetos completos do zero
+          <span>Conteúdo</span>
+          3 projetos completos e reutilizáveis
         </div>
         <div class="meta-item">
           <span>Stack</span>
@@ -36,40 +35,32 @@ export function render() {
     </div>
 
     <div class="ebook-section">
-      <h2>Os três projetos</h2>
+      <h2>O que você recebe</h2>
       <ul class="chapter-list">
         <li>
-          <span class="chapter-num">01</span>
           <div>
-            <strong>Git, VSCode &amp; Deploy — seu primeiro projeto no ar</strong>
+            <strong>Projetos prontos para uso</strong>
             <p>
-              Configure seu ambiente do zero: Git, VSCode e extensões essenciais.
-              Construa um projeto HTML/CSS com estrutura de pastas profissional
-              e faça deploy real — do repositório ao domínio publicado.
+              Código completo com estrutura profissional, pronto para adaptar
+              e usar como base em novos projetos.
             </p>
           </div>
         </li>
         <li>
-          <span class="chapter-num">02</span>
           <div>
-            <strong>JavaScript — SPA com Hash Router</strong>
+            <strong>Arquitetura aplicada</strong>
             <p>
-              Construa um site multi-página sem nenhum framework.
-              Roteamento por hash, módulos ES6, separação de responsabilidades
-              e arquitetura de pastas que escala. Exatamente o que você
-              está lendo agora foi feito assim.
+              Organização de pastas, separação de responsabilidades e decisões
+              que evitam bagunça e retrabalho.
             </p>
           </div>
         </li>
         <li>
-          <span class="chapter-num">03</span>
           <div>
-            <strong>TypeScript — integração com API de filmes (OMDB)</strong>
+            <strong>Guia direto ao ponto</strong>
             <p>
-              Consuma uma API externa com fetch, tipage completa com TypeScript,
-              validação de dados e tratamento de erros. O projeto entrega
-              uma interface funcional de busca de filmes — com código
-              que você entende e consegue manter.
+              Explicações objetivas focadas no que realmente importa
+              na construção de projetos reais.
             </p>
           </div>
         </li>
@@ -77,28 +68,67 @@ export function render() {
     </div>
 
     <div class="ebook-section">
-      <h2>Para quem é este ebook</h2>
+      <h2>Os três projetos</h2>
+      <ul class="chapter-list">
+        <li>
+          <span class="chapter-num">01</span>
+          <div>
+            <strong>Setup + Deploy real</strong>
+            <p>
+              Configure seu ambiente e publique seu primeiro projeto
+              com estrutura profissional.
+            </p>
+          </div>
+        </li>
+        <li>
+          <span class="chapter-num">02</span>
+          <div>
+            <strong>SPA sem framework</strong>
+            <p>
+              Roteamento, modularização e organização de código que escala,
+              sem depender de bibliotecas.
+            </p>
+          </div>
+        </li>
+        <li>
+          <span class="chapter-num">03</span>
+          <div>
+            <strong>TypeScript + API</strong>
+            <p>
+              Integração com API real, tipagem e tratamento de dados
+              prontos para uso em aplicações reais.
+            </p>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <div class="ebook-section">
+      <h2>Resultado</h2>
       <p>
-        Para quem já sabe o básico e quer dar o próximo passo com projetos
-        de verdade. Cada capítulo entrega um projeto funcional, com estrutura
-        de pastas, decisões explicadas e código que vai direto pro portfólio.
+        Você termina com projetos publicados, código organizado e uma base
+        reutilizável para novos projetos.
       </p>
+    </div>
+
+    <div class="ebook-section">
+      <h2>Para quem é</h2>
       <p>
-        Sem rodeios, sem exercícios artificiais. Só projeto, arquitetura
-        e o raciocínio por trás de cada escolha.
+        Para devs que já sabem o básico e querem parar de travar na estrutura
+        dos projetos.
       </p>
     </div>
 
     <div class="ebook-cta">
       <a
-        href="https://wa.me/5531996981103?text=Ol%C3%A1%2C%20quero%20comprar%20o%20ebook%20Frontend%20Blueprint"
+        href="https://wa.me/5531996981103?text=Ol%C3%A1%2C%20quero%20comprar%20o%20Frontend%20Blueprint"
         target="_blank"
         rel="noopener noreferrer"
         class="cta-button"
       >
-        Comprar via WhatsApp
+        Comprar kit agora
       </a>
-      <p class="cta-note">Pagamento Pix/transferência. Entrega imediata do arquivo.</p>
+      <p class="cta-note">Pagamento via Pix · Entrega imediata</p>
     </div>
   `
 }
