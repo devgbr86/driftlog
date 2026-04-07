@@ -312,4 +312,3 @@ Estes Termos são regidos pelas leis da **República Federativa do Brasil**. Fic
 ---
 
 *© 2026 ScriptPRO — Todos os direitos reservados.*  
-*Este documento foi elaborado para uso geral como microempreendedor individual. Para situações específicas ou complexas, consulte um advogado especializado.*

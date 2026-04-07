@@ -35,8 +35,11 @@ Você compra, recebe o `.zip`, extrai e usa. Sem assinatura, sem plataforma, sem
 
 ---
 
-## Disponível em breve
 
 Os primeiros kits estão sendo finalizados. Se quiser ser avisado quando sair:
 
+## Comprar via Whatsapp 
+[Whatsapp 31 996981103](https://wa.me/5531996981103)
+
+## Email
 [topverbs@gmail.com](mailto:topverbs@gmail.com)
