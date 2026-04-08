@@ -1,5 +1,9 @@
 // router.js
 
+// BASE: nome do repositório no GitHub Pages. 
+// Em desenvolvimento local (Live Server) deixa vazio "".
+const REPO_BASE = "/blog";
+
 function detectBase() {
   const p = window.location.pathname;
   if (p.endsWith(".html")) {
@@ -7,6 +11,9 @@ function detectBase() {
   }
   const baseTag = document.querySelector("base[href]");
   if (baseTag) return baseTag.getAttribute("href").replace(/\/$/, "");
+  // Se estiver no GitHub Pages (pathname começa com REPO_BASE), usa ele.
+  // Em localhost o pathname começa com "/" direto, não bate, retorna "".
+  if (p === REPO_BASE || p.startsWith(REPO_BASE + "/")) return REPO_BASE;
   return "";
 }
 
