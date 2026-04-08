@@ -8,8 +8,8 @@ function renderFooter() {
   footer.innerHTML = `
     <div class="footer-inner">
       <div class="footer-about">
-        <span class="footer-brand">Fyregrid</span>
-        <p>Artigos, kits e recursos sobre programação e desenvolvimento.</p>
+        <span class="footer-brand">Sobre</span>
+        <p>Projeto desenvolvido por Guilherme Ribeiro.<br>Guias, roadmaps, blueprints, artigos e kits para desenvolvedores.</p>
       </div>
 
 
@@ -22,7 +22,7 @@ function renderFooter() {
         </div>
     </div>
     <div class="footer-bottom">
-      <span>© 2026 Fyregrid</span>
+      <span>© 2025-2026 Fyregrid</span>
       <a href="#" id="footer-legal-link">Privacidade e Termos</a>
     </div>
   `;
@@ -108,7 +108,7 @@ function showLegal() {
       <p>Leis da República Federativa do Brasil. Foro da comarca do domicílio do titular.</p>
 
       <hr>
-      <p><em>© 2026 Fyregrid — Todos os direitos reservados.</em></p>
+      <p><em>© 2025-2026 Fyregrid — Todos os direitos reservados.</em></p>
 
      
     </div>

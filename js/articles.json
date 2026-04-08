@@ -2,21 +2,21 @@
   {
     "slug": "intro-web",
     "title": "Introdução à Web",
-    "date": "2026-04-07",
+    "date": "2025-11",
     "tags": ["web", "iniciante"],
     "description": "Um overview sobre como a web funciona: HTTP, navegadores e a estrutura básica de uma página."
   },
   {
     "slug": "intro-javascript",
     "title": "Introdução ao JavaScript",
-    "date": "2026-04-07",
+    "date": "2025-11",
     "tags": ["javascript", "web", "iniciante"],
     "description": "Primeiros passos com JavaScript no navegador: variáveis, funções e manipulação do DOM."
   },
    {
     "slug": "guide-links",
     "title": "Guias, links e referências Frontend",
-    "date": "2026-04-07",
+    "date": "2026-04",
     "tags": ["guias", "links", "referencias"],
     "description": "O cenário do desenvolvimento front-end está em constante evolução, com novas tecnologias, frameworks e metodologias surgindo a todo momento."
   }
