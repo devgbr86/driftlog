@@ -1,7 +1,7 @@
 [
      {
     "slug": "js-book",
-    "title": "EBOOK JavaScript Guias & Projetos",
+    "title": "📘 EBOOK Programação Web: JS, Git & VSCode",
     "date": "2026-04",
     "tags": ["ebook", "dev", "javascript"],
     "description": "Cada capítulo foi pensado para quem está começando — sem assumir que você já sabe nada. Você vai construir projetos reais, passo a passo, do ambiente de desenvolvimento até o deploy, com código que você pode mostrar hoje mesmo no seu GitHub."
@@ -12,13 +12,6 @@
     "date": "2026-04",
     "tags": ["cafe", "dev", "code"],
     "description": "As evidências históricas e botânicas apontam para a região de Kaffa, na Etiópia, como centro de origem da espécie Coffea arabica."
-  },
-   {
-    "slug": "coffee-species",
-    "title": "Espécies de Café",
-    "date": "2026-04",
-    "tags": ["cafe", "dev", "code"],
-    "description": "O café compreende plantas do gênero Coffea, pertencente à família Rubiaceae, ordem Gentianales."
   },
    {
     "slug": "coffee-nutrition",

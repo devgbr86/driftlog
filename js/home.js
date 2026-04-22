@@ -40,11 +40,11 @@ function renderArticleList(filter = "") {
 
 function renderHome() {
   currentView = "home";
-  document.title = "Fyregrid";
+  document.title = "grcodev/blog";
 
   app.innerHTML = `
     <section class="home-intro">
-      <h1 class="home-title">Fyregrid</h1>
+      <h1 class="home-title">grcodev/blog</h1>
       <p class="home-subtitle">#blog #dev #games</p>
     </section>
 
@@ -84,7 +84,7 @@ function renderNotFound() {
       <a href="#" id="back-btn">← Voltar para home</a>
     </div>
   `;
-  document.title = "404 | Fyregrid";
+  document.title = "404 | grcodev/blog";
   document.getElementById("back-btn").onclick = (e) => {
     e.preventDefault();
     navigate('/');

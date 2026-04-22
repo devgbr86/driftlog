@@ -96,7 +96,7 @@ async function openArticle(slug) {
     navigate('/');
   };
 
-  if (data.meta.title) document.title = data.meta.title + " | Fyregrid";
+  if (data.meta.title) document.title = data.meta.title + " | grcodev/blog";
   updateNavActive();
   window.scrollTo(0, 0);
 }
