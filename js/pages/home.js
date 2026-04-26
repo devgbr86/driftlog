@@ -36,7 +36,7 @@ function renderHome() {
   document.getElementById("app").innerHTML = `
     <section class="home-intro">
       <h1 class="home-title">grcodev/blog</h1>
-      <p class="home-subtitle">#blog #dev #games</p>
+      <p class="home-subtitle">Projetos & Guias para Desenvolvedores</p>
     </section>
 
     <section class="articles-section">

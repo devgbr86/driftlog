@@ -1,16 +1,23 @@
 [
        {
     "slug": "jskit",
-    "title": "🛠️ JavaScript Boilerplate Kit",
+    "title": "🛠️ JavaScript Boilerplate Kit + Documentação + README",
     "date": "2026-04",
     "tags": ["boilerplate", "javascript", "pack"],
     "description": "Arquivos + Documentação de Projetos + Boilerplates JavaScript Frontend/NodeJS/APIs."
   },
      {
-    "slug": "ebook",
-    "title": "📘 EBOOK Manual Completo Git & VSCode",
+    "slug": "gitbook",
+    "title": "📘 EBOOK Tutorial/Manual Completo Git & Visual Studio Code",
     "date": "2026-04",
     "tags": ["ebook", "vscode", "git"],
+    "description": "EBook sobre Configuração Git / VSCode + Tutorial Deploy GitHub Pages + Checklist, Recursos e Links."
+  },
+       {
+    "slug": "mdbook",
+    "title": "📕 Aprenda a criar Livros e Ebooks profissionais usando Markdown + Pandoc",
+    "date": "2026-04",
+    "tags": ["ebook", "markdown", "pandoc"],
     "description": "EBook sobre Configuração Git / VSCode + Tutorial Deploy GitHub Pages + Checklist, Recursos e Links."
   },
    {
