@@ -46,7 +46,7 @@ Seleção prática de documentações oficiais, ferramentas úteis e referência
 ---
 
 
-> PREÇO 52,00 REAIS        
+> PREÇO 47,00 REAIS        
 > Arquivo no formato EPUB  
 > Contato/Suporte direto       
 > Envio imediato de Arquivos       

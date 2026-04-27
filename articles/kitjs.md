@@ -85,7 +85,7 @@ Boilerplates prontos para acelerar projetos reais com frontend + backend complet
 > PIX / Transferência     
 
 
-[✔️ COMPRAR JS Boilerplate Kit 💬](https://wa.me/5531996981103?text=Quero%20o%20EBook)
+[✔️ COMPRAR JS Boilerplate Kit 💬](https://wa.me/5531996981103?text=Quero%20o%20KitJS)
 
 
 
