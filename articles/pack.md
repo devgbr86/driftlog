@@ -1,6 +1,10 @@
 # 📦 EBooks + Boilerplates + Documentação README + DEPLOY  
 
 
+## Introdução 
+
+[AMOSTRA GRATUITA](https://github.com/grcodev/grcodev/releases/vault/JSRoadmap.epub)
+
 
 
 
@@ -11,11 +15,6 @@
 
 
 
-
-<img src="https://github.com/grcodev/grcodev/releases/download/vault/gitbook.png" width="24%" height="24%" style="border-radius:2%;" />
-
-
-
 [grcodev.github.io/lab/p/bookgit](https://grcodev.github.io/lab/p/bookgit)
 
 
@@ -23,9 +22,8 @@
 
 
 
-### Aprenda a criar Livros e EBooks profissionais usando Markdown + Pandoc 
+### Aprenda a criar EBooks profissionais usando Markdown + Pandoc 
 
-<img src="https://github.com/grcodev/grcodev/releases/download/vault/mdbook.png" width="24%" height="24%" style="border-radius:2%;" />
 
 [grcodev.github.io/lab/p/bookmd](https://grcodev.github.io/lab/p/bookmd)
 
@@ -34,7 +32,6 @@
 
 ### JavaScript Boilerplate Kit + Documentação README + DEPLOY 
 
-<img src="https://github.com/grcodev/grcodev/releases/download/vault/jskit.png" width="24%" height="24%" style="border-radius:2%;" />
 
 [grcodev.github.io/lab/p/kitjs](https://grcodev.github.io/lab/p/kitjs)
 
