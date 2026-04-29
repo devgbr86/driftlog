@@ -18,9 +18,9 @@ const CONFIG = {
 
   products: [
     {
-      icon:  "📦",
-      title: "EBooks + Boilerplates + Documentação README + DEPLOY",
-      slug:  "pack",
+      icon:  "💬",
+      title: "Aulas particulares & Mentorias",
+      slug:  "mentoria",
     },   
   ],
 };
