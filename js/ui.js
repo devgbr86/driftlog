@@ -23,7 +23,7 @@ function renderFooter() {
 
   const products = CONFIG.products.map((p, i) => `
     ${p.icon} ${p.title}
-    <br><a href="${BASE}/p/${p.slug}" id="footer-product-${i}">→ Explorar</a>
+    <br><a href="${BASE}/p/${p.slug}" id="footer-product-${i}">→ EXPLORAR</a>
     <br>
   `).join("");
 
