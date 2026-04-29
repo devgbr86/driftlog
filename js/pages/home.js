@@ -31,11 +31,11 @@ function renderArticleList(filter = "") {
 
 function renderHome() {
   currentView = "home";
-  document.title = "grcodev/blog";
+  document.title = "grcodev/lab";
 
   document.getElementById("app").innerHTML = `
     <section class="home-intro">
-      <h1 class="home-title">grcodev/blog</h1>
+      <h1 class="home-title">grcodev/lab</h1>
       <p class="home-subtitle">Projetos & Guias para Desenvolvedores</p>
     </section>
 

@@ -4,16 +4,16 @@
 
 function showLegal() {
   currentView = "legal";
-  document.title = "Legal | grcodev/blog";
+  document.title = "Legal | grcodev/lab";
 
   const app = document.getElementById("app");
   app.innerHTML = `
     <div class="legal-wrap markdown-body">
       <a href="${BASE}/" id="back-from-legal" class="back-link">← Voltar</a>
 
-      <h1>Documentos Legais — grcodev/blog</h1>
+      <h1>Documentos Legais — grcodev/lab</h1>
       <blockquote>
-        <strong>grcodev/blog</strong> · Microempreendedor Individual<br>
+        <strong>grcodev/lab</strong> · Microempreendedor Individual<br>
         Produtos digitais, tutoriais e conteúdo educacional sobre programação<br>
         Última atualização: abril de 2026
       </blockquote>
@@ -29,7 +29,7 @@ function showLegal() {
 
       <h2 id="privacidade">1. Política de Privacidade</h2>
       <h3>1.1 Quem somos</h3>
-      <p>A <strong>grcodev/blog</strong> é uma microempresa individual dedicada à criação e venda de produtos digitais — incluindo PDFs, tutoriais e materiais educacionais sobre programação — e à manutenção de um blog de conteúdo instrucional.</p>
+      <p>A <strong>grcodev/lab</strong> é uma microempresa individual dedicada à criação e venda de produtos digitais — incluindo PDFs, tutoriais e materiais educacionais sobre programação — e à manutenção de um blog de conteúdo instrucional.</p>
 
       <h3>1.2 Quais dados coletamos</h3>
       <p><strong>Dados fornecidos por você:</strong> nome, e-mail, dados de pagamento (processados por terceiros), mensagens de contato.</p>
@@ -69,7 +69,7 @@ function showLegal() {
       <p>Leis da República Federativa do Brasil. Foro da comarca do domicílio do titular.</p>
 
       <hr>
-      <p><em>© grcodev/blog — Todos os direitos reservados.</em></p>
+      <p><em>© grcodev/lab — Todos os direitos reservados.</em></p>
     </div>
   `;
 

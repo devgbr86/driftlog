@@ -12,7 +12,7 @@ function renderNotFound() {
     </div>
   `;
 
-  document.title = "404 | grcodev/blog";
+  document.title = "404 | grcodev/lab";
 
   document.getElementById("back-btn").onclick = (e) => {
     e.preventDefault();

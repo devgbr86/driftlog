@@ -5,12 +5,12 @@
 
 const BASE = location.hostname === '127.0.0.1' || location.hostname === 'localhost'
   ? ''
-  : '/blog';
+  : '/lab';
 
 // ─── CONFIG ───────────────────────────────────────────────
 
 const CONFIG = {
-  siteName:  "grcodev/blog",
+  siteName:  "grcodev/lab",
   author:    "Guilherme Ribeiro",
   email:     "topverbs@gmail.com",
   github:    "https://github.com/grcodev",
