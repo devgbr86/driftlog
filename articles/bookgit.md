@@ -5,7 +5,7 @@ Aprenda as duas ferramentas essenciais para qualquer Desenvolvedor Web. Neste EB
 
 
 
-<img src="https://github.com/grcodev/grcodev/releases/download/vault/git.png" width="79%" height="79%" style="border-radius:2%;" />
+<img src="https://github.com/grcodev/grcodev/releases/download/vault/git.png" width="80%" height="80%" style="border-radius:2%;" />
 
 
 

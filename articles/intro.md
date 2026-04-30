@@ -19,7 +19,7 @@ Aprenda as duas ferramentas essenciais para qualquer Desenvolvedor Web. Neste EB
 
 
 
-<img src="https://github.com/grcodev/grcodev/releases/download/vault/git.png" width="79%" height="79%" style="border-radius:2%;" />
+<img src="https://github.com/grcodev/grcodev/releases/download/vault/git.png" width="80%" height="80%" style="border-radius:2%;" />
 
 
 
@@ -37,7 +37,7 @@ Aprenda um fluxo prático para transformar texto simples em conteúdo profission
 
 
 
-<img src="https://github.com/grcodev/grcodev/releases/download/vault/md.png" width="79%" height="79%" style="border-radius:2%;" />
+<img src="https://github.com/grcodev/grcodev/releases/download/vault/md.png" width="80%" height="80%" style="border-radius:2%;" />
 
 
 [→ Explorar EBOOK Markdown + Pandoc](https://grcodev.github.io/lab/p/bookmd)
@@ -52,7 +52,7 @@ Projetos JavaScript reutilizáveis e publicar soluções online com apresentaç�
 
 
 
-<img src="https://github.com/grcodev/grcodev/releases/download/vault/kit.png" width="79%" height="79%" style="border-radius:2%;" />
+<img src="https://github.com/grcodev/grcodev/releases/download/vault/kit.png" width="80%" height="80%" style="border-radius:2%;" />
 
 
 [→ Explorar JS Boilerplate Kit](https://grcodev.github.io/lab/p/kitjs)
